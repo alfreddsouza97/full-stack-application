@@ -1,0 +1,38 @@
+.hi {
+
+
+  margin-left: 5px;
+
+  margin-top: 20px;
+
+  width: 100%;
+}
+
+.main {
+
+  background: crimson;
+}
+
+button {
+
+  padding: 10px;
+
+  font-weight: bolder;
+
+  margin-left: 20%;
+
+  cursor: pointer;
+}
+
+
+/* .video {
+
+  margin-left: 20%;
+} */
+
+
+/* .widthmax{
+
+  width: 100%;
+} */
+
